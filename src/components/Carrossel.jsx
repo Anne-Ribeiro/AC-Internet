@@ -11,7 +11,7 @@ function Carrossel() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>Joe Sandoe Books</h3>
+          <h3>John Sandoe Books</h3>
           <p>O melhor lugar para se comprar livros, mais de 40 anos de excelencia!</p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -23,7 +23,7 @@ function Carrossel() {
         />
 
         <Carousel.Caption>
-          <h3>Joe Sandoe Books</h3>
+          <h3>John Sandoe Books</h3>
           <p>Com mais de 1000 títulos.!</p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -35,7 +35,7 @@ function Carrossel() {
         />
 
         <Carousel.Caption>
-          <h3>Joe Sandoe Books</h3>
+          <h3>John Sandoe Books</h3>
           <p>Local aconchegante e acolhedor</p>
         </Carousel.Caption>
       </Carousel.Item>

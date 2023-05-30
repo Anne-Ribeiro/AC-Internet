@@ -1,7 +1,7 @@
 import Carrossel from '../components/Carrossel'
 import NavProjeto from '../components/NavProjeto'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Cards from '../components/Cards';
+import CardGroup from '../components/CardGroup';
 import Footer from '../components/Footer';
 //import "../index.css"
 
@@ -12,7 +12,7 @@ function Home() {
           <NavProjeto/>
           <Carrossel/>
           <br/>
-          <Cards/>
+          <CardGroup/>
           <br/>
           <Footer/>
         </div>

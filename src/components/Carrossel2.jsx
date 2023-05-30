@@ -11,7 +11,7 @@ function CarrosselSobre() {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>Joe Sandoe Books</h3>
+          <h3>John Sandoe Books</h3>
           <p>O melhor lugar para se comprar livros, mais de 40 anos de excelencia!</p>
         </Carousel.Caption>
       </Carousel.Item>

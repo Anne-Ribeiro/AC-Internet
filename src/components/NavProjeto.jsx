@@ -9,7 +9,7 @@ function NavProjeto() {
     <>
   <Navbar bg="dark" variant="dark">
         <Container>
-        <Navbar.Brand href="#home">Joe Sandoe Books</Navbar.Brand>
+        <Navbar.Brand href="#home">John Sandoe Books</Navbar.Brand>
           <Nav className="py-2 me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/sobre">Sobre</Nav.Link>
